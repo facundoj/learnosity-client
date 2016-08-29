@@ -1,0 +1,4 @@
+learnosity-sdk==0.0.5
+PyYAML==3.11
+requests==2.2.1
+bottle==0.12.9
