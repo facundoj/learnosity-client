@@ -10,7 +10,7 @@ sys.path.append(os.path.dirname(BASE_DIR))
 from learnosity_client import queryLearnosity
 
 # Usage:
-#   python app/learnosity-client.py <config-file.yml>
+#   python app/service.py <config-file.yml>
 
 configFilePath = sys.argv[1]
 
