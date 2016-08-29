@@ -4,4 +4,4 @@ security:
 
 details:
     learnosity_env:     https://data.learnosity.com/v1
-    endpoint:           /sessions/responses/scores
+    endpoint:           /{some learnosity endpoint}
